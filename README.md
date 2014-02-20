@@ -1,6 +1,7 @@
 Matlab-Progress-Bar
 ===================
 Original by Jermy Scheff- jdscheff@gmail.com - http://www.jeremyscheff.com/
+
 Edit by Hyo Byun, while at Mayberg Lab, Emory University, 2013
 
 This script may be used for for and parfor loops in matlab.
